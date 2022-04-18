@@ -1,7 +1,6 @@
-# Guidelines & Overview
+# Guidelines & Overview 
 ## Domain specific configuration app
-
----
+<br>
 
 ### <u>Smjernice</u>:
 
@@ -104,18 +103,18 @@ Ostale mogućnosti možemo dogovoriti po potrebi, ali bi prvenstveno uključival
 
 ### <u>Literatura</u>:
 
-[Spring Boot React CRUD][1]
-[Spring Documentation/101][2]
-[React 101 step-by-step][3]
-[React 101][4]
-[React Monaco Editor][5]
-[Monaco Editor][6]
-[Custom React Monaco Editor with custom validation, highlighter, formatter, etc.][7]
-[React Data Table][8]
-[React/JS packages repo][9]
-[AdminLTE3 theme][10]
-[Free themes][11]
-[Parsing in Java][12]
+1. [Spring Boot React CRUD][1]
+2. [Spring Documentation/101][2]
+3. [React 101 step-by-step][3]
+4. [React 101][4]
+5. [React Monaco Editor][5]
+6. [Monaco Editor][6]
+7. [Custom React Monaco Editor with custom validation, highlighter, formatter, etc.][7]
+8. [React Data Table][8]
+9. [React/JS packages repo][9]
+10. [AdminLTE3 theme][10]
+11. [Free themes][11]
+12. [Parsing in Java][12]
 
 ---
 
