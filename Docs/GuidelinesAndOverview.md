@@ -117,6 +117,9 @@ Ostale mogućnosti možemo dogovoriti po potrebi, ali bi prvenstveno uključival
 [Free themes][11]
 [Parsing in Java][12]
 
+---
+
+Originalnalni tekst s email-a mozete vidjeti/skinuti [ovdje][gno_original].
 
 [1]: <https://www.baeldung.com/spring-boot-react-crud> (Spring Boot React CRUD)
 [2]: <https://docs.spring.io/spring-boot/docs/current/> (Spring Documentation/101)
@@ -130,6 +133,5 @@ Ostale mogućnosti možemo dogovoriti po potrebi, ali bi prvenstveno uključival
 [10]: <https://adminlte.io/themes/v3/pages/tables/data.html> (AdminLTE3 theme)
 [11]: <https://adminlte.io/blog/free-admin-panels/> (Free themes)
 [12]: <https://tomassetti.me/parsing-in-java/> (Parsing in Java)
-
----
+[gno_original]: <https://github.com/avukalov/enea-dsc-app/blob/master/Docs/GuidelinesAndOverview_original.rtf> (original from e-mail)
 
